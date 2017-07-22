@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Slideshow</string>
+    <string name="nextSlide">next</string>
+    <string name="prevSlide">previous</string>
+    <string name="changeShowInput">Slideshow ID</string>
+    <string name="changeShowBtn">change</string>
+    <string name="notification">send notification</string>
+    <string name="actionNextSlide">NEXT</string>
+    <string name="actionPrevSlide">PREV</string>
+    <string name="notificationDesc">Change</string>
+    <string name="notificationTitle">Change the slide</string>
+    <string name="speakSlideLabel">Change the slide or something</string>
+    <string name="speakLabel">SAY WORDS</string>
+</resources>
